@@ -5,6 +5,7 @@ on:
     branches:
       - testbringup
       - main
+      - master
       - icon
 
 jobs:
